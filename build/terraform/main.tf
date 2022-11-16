@@ -1,6 +1,6 @@
 module "static-https-website" {
   source  = "opsishealth.scalr.io/acc-ua6k2cahh55vgq0/static-https-website/google"
-  version = "1.0.1"
+  version = "1.0.2"
 
   project               = "annular-ray-352219"
   env                   = "dev"
