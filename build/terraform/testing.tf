@@ -1,6 +1,6 @@
 output "Dhvak" {
   value = "Hello Dhvanik. How are you? Hello hi"
 }
-output "GK" {
+ouput "GK" {
   value = "Hello Dhvanik. How are you? Hello hi"
 }
